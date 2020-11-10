@@ -110,7 +110,7 @@ def is_account_exist(email, password):
     :return: if the credentials are correct
     '''
 
-    print("Cheacking the email and the password are correct")
+    print("Checking the email and the password are correct")
     options = Options()
     # options.add_argument("--incognito")
     # options.add_argument("--headless")
